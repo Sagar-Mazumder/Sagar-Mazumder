@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sagar-Mazumder
+- 👋 Hi, I’m Sagar Mazumder
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on google
