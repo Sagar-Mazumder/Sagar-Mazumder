@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sagar Mazumder
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100009138940584
 - 📫 How to reach me more https://www.linkedin.com/in/sagar-mazumder-ab63941b1/
 
