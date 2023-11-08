@@ -1,4 +1,3 @@
-[MERN STACK DEVELOPER](https://scontent.fcgp28-1.fna.fbcdn.net/v/t1.6435-9/p960x960/83720839_2429277097386898_4236126398663622656_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFcM91njhM2R5Dpm6IY0U0rpSdsbgYJ5MSlJ2xuBgnkxFR85yH3aqhsWDXNrG1K7Qnmnq8FfU6KyQLDbEsG_K34&_nc_ohc=hXN2RRLN5tEAX-SmkWU&_nc_ht=scontent.fcgp28-1.fna&oh=d9d24bda55a1a44b54a4300d7bc4fbe4&oe=61CA7E01)
 ### Hi there 👋, This is Sagar Mazumder
 #### MERN STACK DEVELOPER
 
