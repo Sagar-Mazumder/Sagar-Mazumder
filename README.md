@@ -1,14 +1,14 @@
-![MERN STACK DEVELOPER](https://scontent.fcgp28-1.fna.fbcdn.net/v/t1.6435-9/p960x960/83720839_2429277097386898_4236126398663622656_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFcM91njhM2R5Dpm6IY0U0rpSdsbgYJ5MSlJ2xuBgnkxFR85yH3aqhsWDXNrG1K7Qnmnq8FfU6KyQLDbEsG_K34&_nc_ohc=hXN2RRLN5tEAX-SmkWU&_nc_ht=scontent.fcgp28-1.fna&oh=d9d24bda55a1a44b54a4300d7bc4fbe4&oe=61CA7E01)
+[MERN STACK DEVELOPER](https://scontent.fcgp28-1.fna.fbcdn.net/v/t1.6435-9/p960x960/83720839_2429277097386898_4236126398663622656_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFcM91njhM2R5Dpm6IY0U0rpSdsbgYJ5MSlJ2xuBgnkxFR85yH3aqhsWDXNrG1K7Qnmnq8FfU6KyQLDbEsG_K34&_nc_ohc=hXN2RRLN5tEAX-SmkWU&_nc_ht=scontent.fcgp28-1.fna&oh=d9d24bda55a1a44b54a4300d7bc4fbe4&oe=61CA7E01)
 ### Hi there 👋, This is Sagar Mazumder
 #### MERN STACK DEVELOPER
 
-Web development is my life. Without it, I can think of anything else. I always tried to be a good web developer. And I still learning. One day I will be the best web developer in Bangladesh.
+Web development is my life. Without it, I can think of anything else. I always tried to be a good web developer. And I am still learning. One day I will be the best web developer in Bangladesh.
 
-Skills: JAVASCRIPT/BOOTSTRAP/MATERIAL-UI/NODE.JS/MONGODB/EXPRESS.JS/FIREBASE / REACT / JS / HTML / CSS
+Skills: JAVASCRIPT/BOOTSTRAP/MATERIAL-UI/NODE.JS/MongoDB/EXPRESS.JS/FIREBASE / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on a Full-Stack project 
 - 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: sagarmazumder50@gmail.com 
 - ⚡ Fun fact: I am too lazy😪 
